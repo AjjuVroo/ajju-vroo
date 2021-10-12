@@ -1,30 +1,25 @@
-### Hi there 👋
+### Hi there I am Harjot Singh aka Ajuu-Vroo 👋
+
+You can guess from my git stats that I am a newbie but I am more than dedicated to make the stats hike to stupendous heights.
+
+* * *
+
+It hasn't been that long since I have been into this field (just over 8 months) but I have learned quite a few technologies.
+I am obviously sharpening my skills more and more in them as days pass by.
 
 Languages and Tools:
 
-HTML5
-
-CSS3
-
-Javascript
-
-Visual Studio Code
-
-Git
-
-GitHub
-
-Terminal
-
-MongoDB
-
-NodeJS
-
-Python
-
-Next.js
-
-Express
++ HTML5
++ CSS3
++ Javascript
++ Visual Studio Code
++ Git
++ GitHub
++ Terminal
++ MongoDB
++ NodeJS
++ Next.js
++ Express
 
 
 
