@@ -1,4 +1,4 @@
-### Hi there I am Harjot Singh aka Ajuu-Vroo 👋
+### Hi there I am Harjot Singh aka Ajju-Vroo 👋
 
 You can guess from my git stats that I am a newbie but I am more than dedicated to make the stats hike to stupendous heights.
 
